@@ -1,0 +1,25 @@
+.detail{
+    height: 80%;
+    
+}
+
+.detail h5{
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    font-size: 2rem;
+    
+}
+
+.detail h6{
+    font-size: 1.5rem;
+    font-weight:400;
+    padding-bottom:2rem;
+    padding-top: 2rem;
+    
+}
+
+.detail p{
+    font-size: 1.6rem;
+     font-weight: bold;
+}
+
