@@ -6,19 +6,3 @@ Este proyecto está realizado para el curso de CoderHouse, con el profesor Adria
 * SweetAlert2
 * Bootstrap 
 * Fontawesome (iconos)
-
-INICIO:
-
-[![1.png](https://i.postimg.cc/MGf0p7pJ/1.png)](https://postimg.cc/TyG5kWbt)
-Detalles:
-
-[![2.png](https://i.postimg.cc/BvRgThVv/2.png)](https://postimg.cc/3yCm7Z7M)
-Carrito Cargado: 
-
-[![3.png](https://i.postimg.cc/BnQM4PFJ/3.png)](https://postimg.cc/kBzxy4wH)
-Formulario de Compra: 
-
-[![4.png](https://i.postimg.cc/XvrLyMxh/4.png)](https://postimg.cc/kVdKkp0F)
-Compra Realizada: 
-
-[![5.png](https://i.postimg.cc/FHWGRFb3/5.png)](https://postimg.cc/pmjKcH6L)
